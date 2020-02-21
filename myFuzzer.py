@@ -5,8 +5,6 @@ import urllib3
 import urllib.parse as U 
 import urllib.error as E
 
-print("Welcome to my own Web Site Fuzzer")
-
 threads = 5
 target = '192.168.136.138'
 filepath = 'comm.txt'
